@@ -1,0 +1,6 @@
+id: 26j9zkazxym7w34kpcjxyuo2qd5zabwv4sq0xv3m1poho6y0
+name: zigram
+main: src/main.zig
+license: MIT
+description: Zigram is a lightweight and efficient Telegram Bot framework written in Zig
+dependencies:
